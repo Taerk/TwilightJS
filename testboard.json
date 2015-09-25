@@ -1,0 +1,67 @@
+{
+	"board": [
+		{
+			"x": 0,
+			"y": 0,
+			"hazard": 0,
+			"home": false,
+			"planets": {
+				"Mecatol Rex": {
+					"resources": 0,
+					"influence": 5,
+					"research": {
+						"red": false,
+						"green": false,
+						"blue": false
+					},
+					"special": [
+						"mec"
+					]
+				}
+			}
+		},
+		{
+			"x": -1,
+			"y": -1,
+			"hazard": 0,
+			"home": false,
+			"planets": {
+				"Planet #1": {
+					"resources": 0,
+					"influence": 0,
+					"research": {
+						"red": false,
+						"green": false,
+						"blue": false
+					},
+					"special": []
+				}
+			}
+		},
+		{
+			"x": -1,
+			"y": 1,
+			"hazard": 0,
+			"home": true,
+			"planets": {
+				"Home Planet": {
+					"resources": 0,
+					"influence": 0,
+					"research": {
+						"red": false,
+						"green": false,
+						"blue": false
+					},
+					"special": []
+				}
+			}
+		},
+		{
+			"x": 1,
+			"y": -1,
+			"hazard": 1,
+			"home": false,
+			"planets": {}
+		}
+	]
+}
